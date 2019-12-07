@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Блок 3. Взаимодействие с сайтом
 
 
@@ -17,3 +18,6 @@
 принятому [стилю оформления кода](https://github.com/netology-code/codestyle/tree/master/python).
 
 Любые вопросы по решению задач задавайте в группе на Facebook.
+=======
+# 04.12.19-dj_homework
+>>>>>>> f8a6702eb7415b69103945f31672af12ba2bcddd
